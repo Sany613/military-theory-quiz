@@ -1,6 +1,6 @@
 {
-  "name": "军理刷题 · 完全体",
-  "short_name": "军理刷题",
+  "name": "刷题通",
+  "short_name": "刷题通",
   "id": "./",
   "start_url": "./",
   "scope": "./",
@@ -12,10 +12,8 @@
   "orientation": "portrait",
   "theme_color": "#2563eb",
   "background_color": "#f4f7fb",
-  "description": "2337题军事理论免费刷题系统",
+  "description": "多题库军事理论刷题软件",
   "lang": "zh-CN",
-  "dir": "ltr",
-  "prefer_related_applications": false,
   "icons": [
     {
       "src": "icon-192.png",
